@@ -1,6 +1,6 @@
 #Actress website design
 
-Preview: http://actress.bitballoon.com
+Preview: http://www.jameiramoore.com
 
 ![My image](http://i.imgur.com/4N4AC6Q.jpg)
 
